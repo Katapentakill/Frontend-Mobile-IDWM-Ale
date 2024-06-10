@@ -1,0 +1,7 @@
+{
+  "name": "MobileIDWM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
